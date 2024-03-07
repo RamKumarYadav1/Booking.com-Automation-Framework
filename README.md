@@ -10,8 +10,9 @@ This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Au
 5. Cucumber Framework 
 6. Page Object Model (POM) 
 7. Behaviour-Driven Development (BDD)
-8. Maven
-9. Intellij IDE
+8. Object Oriented Programming (OOPs)
+9. Maven
+10. Intellij IDE
 
 #### About:
 • We can perform Automation Testing of Booking.com web application using this Test Automation Framework. 
